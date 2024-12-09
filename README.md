@@ -6,9 +6,9 @@ Selamat datang di proyek ini! 🎉 Aplikasi ini dirancang untuk membantu penggun
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Nama saya **[Masukkan Nama Anda]** 👋  
-- 📚 **NPM:** [Masukkan NPM Anda]  
-- 🎓 **Jurusan:** [Masukkan Jurusan Anda]  
+Halo! Nama saya **[NUR YOGA ANDIKA]** 👋  
+- 📚 **NPM:** [2210010652]  
+- 🎓 **Jurusan:** [TEKNIK INFORMATIKA]  
 - 🌟 Saya senang belajar teknologi baru dan mengembangkan solusi praktis untuk kebutuhan sehari-hari.  
 
 💬 Jangan ragu untuk menghubungi saya untuk berdiskusi lebih lanjut tentang proyek ini! 🚀  
